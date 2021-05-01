@@ -1,1 +1,1 @@
-# ruminatory-site
+# novicite
